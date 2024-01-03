@@ -1,6 +1,6 @@
 # Project Buzzfeed Quiz Clone
 Projeto de clonar quiz do BuzzFeed feito durante o bootcamp Coding The Future Banco PAN - Desenvolvimento Frontend com Angular.
-Ao longo do curso e do projeto foram práticados: TypeScript, Angular, HTML e CSS.
+Ao longo do curso e do projeto foram praticados: TypeScript, Angular, HTML e CSS.
 
 ![imagem do Projeto](src/assets/images/question.png)
 ![imagem do Projeto](src/assets/images/question_click.png)
